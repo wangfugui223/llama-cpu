@@ -71,7 +71,11 @@ This will create merged.pth file in the root folder of this repo. Place this fil
 ```
 python example-bfloat16.py
 ```
+### For hipda user
+pan.baidu.com download url
+[pan.baidu.com](https://pan.baidu.com/s/1koCFaEnhHWvOa7HQEQv-8g?pwd=9uxu)
 
+Thanks for xialer, 白胡子
 ### Model Card
 See [MODEL_CARD.md](MODEL_CARD.md)
 
